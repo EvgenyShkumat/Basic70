@@ -2,8 +2,9 @@
 using namespace std;
 
 string output();
+void sum();
 
 int main() {
-	cout << output();
+	sum();
 	return 0;
 }
